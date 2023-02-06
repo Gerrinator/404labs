@@ -1,0 +1,15 @@
+1) https://github.com/Gerrinator/django-lab
+
+2) It shows a page saying that installation was successful, and includes links to documentation and tutorials. 
+
+3) It shows a plain text page with the HttpResponse message in the code.
+
+4) Migrations in Django are used to apply any changes made to the models to the database. It's important because any changes we make to the models also need to be applied to the database for the server to work properly. 
+
+5) When logging into the admin page, we see all the custom models in the site and options to add model objects. To get these models to appear in the admin page, we need to use admin.site.register(model)
+
+6) We get a 404 with the message "No Question matches the given query". When using a string, we also get a 404 with a longer message explaining the error and how the current path didn't match the url patterns. To add support for strings, we can add extra path patterns with a str type instead of an int. 
+
+7) Hardcoding URLs can lead to difficulties in changing URLs in the code, and makes it harder to maintain. 
+
+8) Django's generic views are good when you need your views to do very standard or repetitive stuff as it takes away some of the repetitive code. However it may not be so good when the project requires more complicated functionality.
