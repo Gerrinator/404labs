@@ -18,7 +18,7 @@ def get(host, port):
             chunk = s.recv(BYTES_TO_READ)
             result += chunk
 
-        return result
+        return result.decode('utf-8')
 
 
 print(get(b"127.0.0.1", 8080))

@@ -4,3 +4,6 @@
 [submodule "lab4/mysite"]
 	path = lab4/mysite
 	url = https://github.com/Gerrinator/django-lab.git
+[submodule "lab5/Gerrinator.github.io"]
+	path = lab5/Gerrinator.github.io
+	url = https://github.com/Gerrinator/Gerrinator.github.io
