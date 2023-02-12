@@ -1,0 +1,5 @@
+1) You can use heroku git, as described in the lab with heroku CLI, or GitHub itself by connecting your account, or with Container Registry.
+
+2) A procfile is used to describe what commands will be executed by the app on startup. 
+
+3) https://django-lab.herokuapp.com/polls/
