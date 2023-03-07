@@ -1,0 +1,9 @@
+1) I see an image of a creature which can be clicked and dragged around the page. If I switch to another tab the image's location is saved.
+
+2) Typescript requires writing more code and is compiled. JavaScript requires less code to be written but is interpreted instead of compiled.
+
+3) An application bundler is good for optimizing web applications, automatically reflecting changes in the browsers and reducing configuration needed. These are the types of features that Parcel provides. 
+
+4) 0 for CONNECTING, which means a socket is created but the connection is not yet open. 1 for OPEN, which means the connection is open and ready for communication. 2 for CLOSING which means the connection is in the process of closing. 3 for CLOSED which means the connection is closed or can't be opened.
+
+5) https://github.com/Gerrinator/nodejs-ws-lab/tree/topdown 

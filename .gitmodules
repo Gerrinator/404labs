@@ -7,3 +7,6 @@
 [submodule "lab5/Gerrinator.github.io"]
 	path = lab5/Gerrinator.github.io
 	url = https://github.com/Gerrinator/Gerrinator.github.io
+[submodule "lab8/nodejs-ws-lab"]
+	path = lab8/nodejs-ws-lab
+	url = https://github.com/Gerrinator/nodejs-ws-lab

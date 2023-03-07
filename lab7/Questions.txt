@@ -1,0 +1,13 @@
+0: https://github.com/Gerrinator/404labs/blob/main/lab7/hello.py
+
+1: Flask lacks many of the templates and frameworks that Django provides but allows more freedom for the project.
+
+2: REST stands for Representational State Transfer. To be RESTful means that all resources in a service are accessed through URIs, and that service is built to work best on the web.
+
+3: Create, Read, Update, and Delete. The respective http methods are POST, GET, PUT and DELETE.
+
+4: 1xx codes are information responses. 2xx codes are successful responses. 3xx codes are for redirection. 4xx are client errors. 5xx are server errors.
+
+5: XSS attacks are a type of injection where malicious scripts are sent into a web server. A web page could be vulnerable to XSS if the code does not check the HTTP request for any input that could make its way into the HTML output. 
+
+6: CORS stands for Cross Origin Resource Sharing. One situation where CORS protection would need to implemented is when one website has the potential to perform a malicious AJAX query to obtain user information from another website. 
